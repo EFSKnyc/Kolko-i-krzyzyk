@@ -1,0 +1,14 @@
+C:\Users\Marcin\documents\visual studio 2015\Projects\KolkoIKrzyzyk\KolkoIKrzyzyk\bin\Release\KolkoIKrzyzyk.exe.config
+C:\Users\Marcin\documents\visual studio 2015\Projects\KolkoIKrzyzyk\KolkoIKrzyzyk\bin\Release\KolkoIKrzyzyk.exe
+C:\Users\Marcin\documents\visual studio 2015\Projects\KolkoIKrzyzyk\KolkoIKrzyzyk\bin\Release\KolkoIKrzyzyk.pdb
+C:\Users\Marcin\documents\visual studio 2015\Projects\KolkoIKrzyzyk\KolkoIKrzyzyk\obj\Release\MainWindow.g.cs
+C:\Users\Marcin\documents\visual studio 2015\Projects\KolkoIKrzyzyk\KolkoIKrzyzyk\obj\Release\App.g.cs
+C:\Users\Marcin\documents\visual studio 2015\Projects\KolkoIKrzyzyk\KolkoIKrzyzyk\obj\Release\KolkoIKrzyzyk_MarkupCompile.cache
+C:\Users\Marcin\documents\visual studio 2015\Projects\KolkoIKrzyzyk\KolkoIKrzyzyk\obj\Release\KolkoIKrzyzyk_MarkupCompile.lref
+C:\Users\Marcin\documents\visual studio 2015\Projects\KolkoIKrzyzyk\KolkoIKrzyzyk\obj\Release\MainWindow.baml
+C:\Users\Marcin\documents\visual studio 2015\Projects\KolkoIKrzyzyk\KolkoIKrzyzyk\obj\Release\KolkoIKrzyzyk.g.resources
+C:\Users\Marcin\documents\visual studio 2015\Projects\KolkoIKrzyzyk\KolkoIKrzyzyk\obj\Release\KolkoIKrzyzyk.Properties.Resources.resources
+C:\Users\Marcin\documents\visual studio 2015\Projects\KolkoIKrzyzyk\KolkoIKrzyzyk\obj\Release\KolkoIKrzyzyk.csproj.GenerateResource.Cache
+C:\Users\Marcin\documents\visual studio 2015\Projects\KolkoIKrzyzyk\KolkoIKrzyzyk\obj\Release\KolkoIKrzyzyk.exe
+C:\Users\Marcin\documents\visual studio 2015\Projects\KolkoIKrzyzyk\KolkoIKrzyzyk\obj\Release\KolkoIKrzyzyk.pdb
+C:\Users\Marcin\Documents\Visual Studio 2015\Projects\KolkoIKrzyzyk\KolkoIKrzyzyk\obj\Release\KolkoIKrzyzyk.csprojResolveAssemblyReference.cache

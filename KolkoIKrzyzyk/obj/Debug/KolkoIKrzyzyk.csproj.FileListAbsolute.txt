@@ -1,0 +1,14 @@
+c:\users\marcin\documents\visual studio 2015\Projects\KolkoIKrzyzyk\KolkoIKrzyzyk\bin\Debug\KolkoIKrzyzyk.exe.config
+c:\users\marcin\documents\visual studio 2015\Projects\KolkoIKrzyzyk\KolkoIKrzyzyk\bin\Debug\KolkoIKrzyzyk.exe
+c:\users\marcin\documents\visual studio 2015\Projects\KolkoIKrzyzyk\KolkoIKrzyzyk\bin\Debug\KolkoIKrzyzyk.pdb
+c:\users\marcin\documents\visual studio 2015\Projects\KolkoIKrzyzyk\KolkoIKrzyzyk\obj\Debug\KolkoIKrzyzyk.csprojResolveAssemblyReference.cache
+c:\users\marcin\documents\visual studio 2015\Projects\KolkoIKrzyzyk\KolkoIKrzyzyk\obj\Debug\MainWindow.g.cs
+c:\users\marcin\documents\visual studio 2015\Projects\KolkoIKrzyzyk\KolkoIKrzyzyk\obj\Debug\App.g.cs
+c:\users\marcin\documents\visual studio 2015\Projects\KolkoIKrzyzyk\KolkoIKrzyzyk\obj\Debug\KolkoIKrzyzyk_MarkupCompile.cache
+c:\users\marcin\documents\visual studio 2015\Projects\KolkoIKrzyzyk\KolkoIKrzyzyk\obj\Debug\KolkoIKrzyzyk_MarkupCompile.lref
+c:\users\marcin\documents\visual studio 2015\Projects\KolkoIKrzyzyk\KolkoIKrzyzyk\obj\Debug\MainWindow.baml
+c:\users\marcin\documents\visual studio 2015\Projects\KolkoIKrzyzyk\KolkoIKrzyzyk\obj\Debug\KolkoIKrzyzyk.g.resources
+c:\users\marcin\documents\visual studio 2015\Projects\KolkoIKrzyzyk\KolkoIKrzyzyk\obj\Debug\KolkoIKrzyzyk.Properties.Resources.resources
+c:\users\marcin\documents\visual studio 2015\Projects\KolkoIKrzyzyk\KolkoIKrzyzyk\obj\Debug\KolkoIKrzyzyk.csproj.GenerateResource.Cache
+c:\users\marcin\documents\visual studio 2015\Projects\KolkoIKrzyzyk\KolkoIKrzyzyk\obj\Debug\KolkoIKrzyzyk.exe
+c:\users\marcin\documents\visual studio 2015\Projects\KolkoIKrzyzyk\KolkoIKrzyzyk\obj\Debug\KolkoIKrzyzyk.pdb
